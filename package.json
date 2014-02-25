@@ -1,0 +1,31 @@
+{
+  "family": "seaui",
+  "name": "affix",
+  "version": "1.0.0",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/seaui/affix",
+  "author": "chanh",
+  "maintainers": [
+    "chanh"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seaui/affix.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": [
+      "affix.js",
+      "affix.css"
+    ],
+    "alias": {
+        "$": "jquery/jquery/1.10.1/jquery"
+    },
+    "devAlias": {},
+    "engines": {}
+  }
+}
