@@ -2,7 +2,7 @@
 
 ---
 
-[![Build Status](https://travis-ci.org/seaui/transition.svg?branch=master)](https://travis-ci.org/seaui/transition)
+[![Build Status](https://travis-ci.org/seaui/affix.svg)](https://travis-ci.org/seaui/affix)
 
 固定层插件
 
