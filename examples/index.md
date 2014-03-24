@@ -4,8 +4,8 @@
 
 ## Normal usage
 
-````javascript
-seajs.use('affix', function() {
+```javascript
+seajs.use(['$', 'affix'], function($) {
   $('#myAffix').affix({
     offset: {
       top: 100,
@@ -15,4 +15,4 @@ seajs.use('affix', function() {
     }
   })
 });
-````
+```

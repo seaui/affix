@@ -2,7 +2,7 @@
   "family": "seaui",
   "name": "affix",
   "version": "1.0.0",
-  "description": "The best project ever.",
+  "description": "固定层插件",
   "homepage": "https://github.com/seaui/affix",
   "author": "chanh",
   "maintainers": [
@@ -13,7 +13,8 @@
     "url": "https://github.com/seaui/affix.git"
   },
   "bugs": {
-    "url": ""
+      "email": "seauijs@gmail.com",
+      "url": "https://github.com/seaui/affix/issues"
   },
   "keywords": [],
   "licenses":  {
