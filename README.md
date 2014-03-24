@@ -2,6 +2,8 @@
 
 ---
 
+[![Build Status](https://travis-ci.org/seaui/transition.svg)](https://travis-ci.org/seaui/transition)
+
 固定层插件
 
 ---
